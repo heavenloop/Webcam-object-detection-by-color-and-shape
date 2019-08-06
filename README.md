@@ -9,6 +9,7 @@ Softwares and packages required:
 2.	Numpy and OpenCV ( I installed with anaconda, but can be installed easily with pip3) 
 
 About:
+
 The main purpose of this program is detect Quality defects in visual aesthetic features
 1.	Control environment of test.
 2.	Take video or picture of the testing product.
